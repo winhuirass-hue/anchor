@@ -1,0 +1,31 @@
+This is Anchor, the file manager for the GNOME desktop.
+
+Installation
+============
+
+See the 'INSTALL' file for installation instructions.  You will need a
+complete and up-to-date GNOME development environment to build anchor.
+You can also find some building and installation tips at
+https://wiki.gnome.org/Apps/Anchor/Development/Anchor
+
+Hacking on Anchor
+===================
+
+Please see the HACKING file for information about hacking on anchor.
+
+Mailing List
+============
+
+The anchor mailing list is anchor-list@gnome.org.  Subscription
+information is available at
+http://mail.gnome.org/mailman/listinfo/anchor-list
+
+How to report bugs
+==================
+
+Bugs should be reported to the GNOME bug tracking system
+(http://bugzilla.gnome.org), in the "anchor" product.
+
+Please read the following page on how to prepare a useful bug report:
+http://bugzilla.gnome.org/bug-HOWTO.html
+

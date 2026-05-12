@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/anchor">
+    <file compressed="true">anchor-bookmarks-window.ui</file>
+    <file compressed="true">anchor-file-management-properties.ui</file>
+    <file>anchor-canvas-view-ui.xml</file>
+    <file>anchor-desktop-canvas-view-ui.xml</file>
+    <file>anchor-directory-view-ui.xml</file>
+    <file>anchor-list-view-ui.xml</file>
+    <file>anchor-shell-ui.xml</file>
+    <file>anchor-app-menu.ui</file>
+    <file alias="icons/thumbnail_frame.png">../icons/thumbnail_frame.png</file>
+    <file alias="icons/filmholes.png">../icons/filmholes.png</file>
+    <file alias="icons/knob.png">../icons/knob.png</file>
+  </gresource>
+</gresources>
